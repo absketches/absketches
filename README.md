@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**absketches/absketches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Abhi - an Engineer, Builder, Mentor, Student & Artist. Lover of cuisines, destinations & People!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+
+- LinkedIn: [Abhiroop Basu](https://www.linkedin.com/in/basuabhiroop)
+
+---
+
+### 📊 GitHub at a glance
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=absketches&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absketches&layout=compact&theme=default)
+
+---
+
+> 💬 *“If you don't believe in magic, you shall never find it”*
